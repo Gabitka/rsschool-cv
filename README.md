@@ -1,1 +1,1 @@
-**https://GITHUB-USERNAME.github.io/rsschool-cv/cv**
+**https://Gabitka.github.io/rsschool-cv/cv**
