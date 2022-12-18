@@ -11,7 +11,7 @@ habit hulidzin
 1. what code examples am I a beginner
 # Work experience 
 1. zero work experience
-# edu
+# education
 1. secondary education
 # english
 1. beginner A1
